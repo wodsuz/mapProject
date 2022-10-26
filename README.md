@@ -2,6 +2,6 @@
 
 # The look
 
-![Large Screens][public/mapprojectfullscreen.png]
+![Large Screens](mapprojectfullscreen.png)
 
-![MObile view][public/mapprojectiphone.png]
+![MObile view](mapprojectiphone.png)
