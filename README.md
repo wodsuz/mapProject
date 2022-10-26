@@ -4,4 +4,4 @@
 
 ![Large Screens](mapprojectfullscreen.png)
 
-![MObile view](mapprojectiphone.png)
+![mapprojectiphone.png](mapprojectiphone.png)
